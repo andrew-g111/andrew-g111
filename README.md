@@ -3,3 +3,4 @@
 -  I know how to code in Java, C++, and Python.
 -  Pronouns: He/Him.
 -  Fun fact: A comonad is a comonoid in a category of endofunctors.
+-  Actual fun fact: I speak toki pona, an artificial language with only 120 words! sina ken toki pona la sina jan pona tawa mi a!
