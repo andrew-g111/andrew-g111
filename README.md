@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onmonopia
+- 👋 Hi, I’m Andrew Gill!
 - 👀 I’ve made this github mostly to get myself acquainted with the software.
 - 🌱 I know how to code in Java, C++, and Python.
 - 😄 Pronouns: he
